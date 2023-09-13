@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paula Sielawa. 
 - 👀 Besides programmering I’m interested in painting but there is something completely irrelevant for you so let's skip this part. 
-- 🌱 I’m currently learning and studying Information Technology in Oslo in Norway. I am in my second year of studies and currently dealing with algorithms and data structures. 
+- 🌱 I’m currently learning and studying Information Technology in Oslo in Norway. I am in my third year of studies. 
 - 📫 You can reach to me via email sielawapaula@gmail.com  
 
 <!---
