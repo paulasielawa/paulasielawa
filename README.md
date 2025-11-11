@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Paula Sielawa. 
-- 👀 Besides programmering I’m interested in painting but there is something completely irrelevant for you so let's skip this part. 
-- 🌱 I’m currently learning and studying Information Technology in Oslo in Norway. I am in my third year of studies. 
+- 👋 Hi, I’m Paula Sielawa.
+-  🌱 I’m currently working as a Cloud Engineer at Sopra Steria, focusing on building reliable and scalable cloud solutions.
+- 👀 Certified across AWS, Google Cloud, Kubernetes, and Terraform, with a strong focus on automation, DevOps practices, and cloud-native architectures. 
+- 💡 My next goal is to develop a library of reusable Terraform modules for AWS to streamline infrastructure deployment and improve efficiency. 
 - 📫 You can reach to me via email sielawapaula@gmail.com  
 
 <!---
